@@ -1,2 +1,5 @@
 # RVRJCCE-Event-Aggregator-Webpage
-Here’s a complete, simple, and responsive “RVRJCCE Event Aggregator” webpage built using HTML, CSS, and JavaScript. It displays upcoming and past events, allows event filtering by category, and includes a facility for registration in individual events.
+The RVRJCCE Event Aggregator is a web-based application designed to display and manage college events in one centralized platform.
+Students can view events, filter them by category, and register for specific events by submitting their details.
+
+This project is built using HTML, CSS, and JavaScript, focusing on strong frontend fundamentals and clean user interaction.
